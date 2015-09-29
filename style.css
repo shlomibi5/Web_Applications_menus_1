@@ -1,3 +1,10 @@
-body{
+body {
 	direction: rtl;
+}
+
+li {
+	display: inline;
+	margin-right: 5px;
+	padding: 2px;
+	border-left: solid 1px;
 }
